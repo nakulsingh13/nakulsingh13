@@ -25,7 +25,7 @@
 - 😄 Pronouns : **He/Him/His**
 
 
-<br/>
+<!-- <br/>
 <br/>
 
 
@@ -127,5 +127,5 @@ The *isocalendar* plugin displays an isometric view of your commits calendar, al
 </table>
 
 
-------
+------ -->
 Credits: [Nakul Singh Gaur](https://github.com/nakulsingh13)
