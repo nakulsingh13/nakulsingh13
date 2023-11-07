@@ -20,7 +20,6 @@
 - 🌱 I’m currently learning **Competitive Programming**
 - 👀 I’m interested in **Computers**
 - 👯 I’m looking to collaborate on **Full Stack Development**
-- 🤔 I’m looking for with **Internships**
 - 💬 Ask me about Anything on [Linkedin](https://www.linkedin.com/in/nakul-singh-gaur-7b4565179/)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
